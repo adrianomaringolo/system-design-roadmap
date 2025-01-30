@@ -8,15 +8,22 @@ Develop a foundational understanding of system design, its significance in softw
 
 ### **1. Understanding System Design** 🏗️💻🔧
 
-System design refers to the structured process of defining the architecture, components, and data flow of a software system to fulfill specified requirements efficiently. It encompasses decision-making on multiple levels, including:
+System design refers to the structured process of defining the architecture, 
+components, and data flow of a software system to fulfill specified requirements 
+efficiently. It encompasses decision-making on multiple levels, including:
 
 - **Scalability:** The ability to handle increasing loads.
-- **Reliability:** Ensuring system consistency and fault tolerance.
+- **Reliability:** Ensuring system consistency and fault tolerance.5
 - **Availability:** Guaranteeing uptime and responsiveness.
 - **Maintainability:** Facilitating future upgrades and debugging.
 - **Performance:** Optimizing speed, efficiency, and resource usage.
 
-A well-structured system ensures seamless interactions between components, optimizes computational resources, and accommodates future growth effectively. 
+A well-structured system ensures seamless interactions between components, 
+optimizes computational resources, and accommodates future growth effectively.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/quLrc3PbuIw?si=C8x4OnNf-3uIS7FO"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Applications:** 🚀📱🌍
 

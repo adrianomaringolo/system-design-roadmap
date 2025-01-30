@@ -1,0 +1,11 @@
+{
+    "default": true,
+    "MD003": { "style": "atx" },
+    "MD007": { "indent": 4 },
+    "MD033": {
+    "allowed_elements": [
+      "iframe"
+    ]
+  },
+    "no-hard-tabs": false
+}
